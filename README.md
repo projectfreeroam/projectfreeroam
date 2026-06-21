@@ -19,7 +19,7 @@ Our goal is to make FiveM development more accessible, fun, and collaborative fo
 
 ## 🌐 Community
 
-- FiveM runs on the **RAGE Multiplayer** engine and lets players connect to custom dedicated servers running modified GTA 5 gameplay.
+- FiveM is a multiplayer modification framework for GTA 5 that lets players connect to custom dedicated servers with modified gameplay, built on top of Rockstar's RAGE engine.
 - Resources are written primarily in **Lua**, **JavaScript**, and **C#**.
 
 ---
